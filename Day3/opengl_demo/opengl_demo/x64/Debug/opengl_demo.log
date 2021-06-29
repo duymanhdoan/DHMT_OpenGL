@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (opengl_demo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+E:\DHMT\Day3\opengl_demo\opengl_demo\include\vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  opengl_demo.vcxproj -> E:\DHMT\Day3\opengl_demo\x64\Debug\demo.exe
