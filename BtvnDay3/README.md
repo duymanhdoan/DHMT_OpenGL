@@ -1,5 +1,6 @@
 # Remember. 
 - i'm finish task for rotate x, rotate y and rotate z from press key q , w  or e. 
+- press key x or X for change alpha. 
 ```
 
 void KeyboardFunc(unsigned char key, int x, int y)
